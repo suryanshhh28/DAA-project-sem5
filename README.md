@@ -1,5 +1,5 @@
-# Final Preview 
-[Click here](https://daaproject-suryanshhh28.vercel.app/)
+# Implemented a few concepts of Dynamic Programming w React :D
+[Click here to preview!](https://daaproject-suryanshhh28.vercel.app/)
 
 # Getting Started with Create React App
 
